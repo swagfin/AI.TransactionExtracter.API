@@ -1,0 +1,104 @@
+﻿You	O
+have	O
+received	O
+500	Amount
+KES	O
+in	O
+your	O
+account	O
+.	O
+Ref	O
+123456	ReferenceNumber
+.	O
+
+M-PESA	O
+deposit	O
+of	O
+1000	Amount
+shs	O
+received	O
+Ref	O
+AB12345Z	ReferenceNumber
+.	O
+
+Paid	O
+Ksh	O
+750	Amount
+to	O
+your	O
+account	O
+Ref	O
+REF2024A	ReferenceNumber
+.	O
+
+Amount	O
+of	O
+1200	Amount
+Ksh	O
+was	O
+transferred	O
+.	O
+Ref	O
+TXN444555	ReferenceNumber
+.	O
+
+You	O
+got	O
+credited	O
+with	O
+3000	Amount
+KES	O
+.	O
+Reference	O
+number	O
+REF998877	ReferenceNumber
+.	O
+
+Ksh	O
+200	Amount
+deposited	O
+into	O
+your	O
+wallet	O
+.	O
+Ref	O
+111XYZ999	ReferenceNumber
+
+Received	O
+2500	Amount
+KES	O
+.	O
+Transaction	O
+ID	O
+TRX345677	ReferenceNumber
+.	O
+
+Sent	O
+KES	O
+1500	Amount
+.	O
+Reference	O
+code	O
+XYZABC123	ReferenceNumber
+.	O
+
+Your	O
+payment	O
+of	O
+1800	Amount
+has	O
+been	O
+received	O
+Ref	O
+REF22001X	ReferenceNumber
+.	O
+
+Received	O
+cash	O
+of	O
+Ksh	O
+600	Amount
+with	O
+Ref	O
+REFHELLO001	ReferenceNumber
+.	O
